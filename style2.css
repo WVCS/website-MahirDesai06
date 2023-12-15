@@ -1,1 +1,41 @@
-
+body{
+  background-color: lightgreen;
+}
+h1{
+ font-size: 300%;
+   letter-spacing:3px;
+  color: white;
+  text-decoration: underline;
+  font-family: "Lucida Handwriting";
+}
+p{
+  font-size:200%;
+  color: white;
+  font-family: "Lucida Handwriting";
+}
+img{
+  width:300px;
+  border-style: solid;
+  border-color: white;
+}
+iframe{
+  
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 20px;
+  color:  black;
+  text-decoration: none;
+  font-family: "Lucida Handwriting";
+}
+li a:hover{
+  background-color: black;
+  color: white;
+}
